@@ -131,11 +131,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 vbnet
 Copy code
 
-### Instructions for Use
 
-1. **Replace `yourusername`**: Update the GitHub clone URL with your actual GitHub username or repository URL.
-2. **Customize Content**: Feel free to add or modify sections based on specific project details or additional features.
-3. **Add a License**: If you haven't already, consider including a license file to clarify usage rights.
 
 This `README.md` provides clear instructions for setting up, running, and using the Food Distribution Management System. If you need more information or additional sections, let me know!
 
